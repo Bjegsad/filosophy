@@ -1,0 +1,6 @@
+X:\C#\filosophy\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+X:\C#\filosophy\ConsoleApp1\ConsoleApp1\bin\Debug\filosophers.exe.config
+X:\C#\filosophy\ConsoleApp1\ConsoleApp1\bin\Debug\filosophers.exe
+X:\C#\filosophy\ConsoleApp1\ConsoleApp1\bin\Debug\filosophers.pdb
+X:\C#\filosophy\ConsoleApp1\ConsoleApp1\obj\Debug\filosophers.exe
+X:\C#\filosophy\ConsoleApp1\ConsoleApp1\obj\Debug\filosophers.pdb
